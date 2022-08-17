@@ -1,0 +1,15 @@
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula05Exer01\TP.Aula05Exer01\bin\Debug\net6.0\TP.Aula05Exer01.exe
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula05Exer01\TP.Aula05Exer01\bin\Debug\net6.0\TP.Aula05Exer01.deps.json
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula05Exer01\TP.Aula05Exer01\bin\Debug\net6.0\TP.Aula05Exer01.runtimeconfig.json
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula05Exer01\TP.Aula05Exer01\bin\Debug\net6.0\TP.Aula05Exer01.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula05Exer01\TP.Aula05Exer01\bin\Debug\net6.0\TP.Aula05Exer01.pdb
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula05Exer01\TP.Aula05Exer01\obj\Debug\net6.0\TP.Aula05Exer01.csproj.AssemblyReference.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula05Exer01\TP.Aula05Exer01\obj\Debug\net6.0\TP.Aula05Exer01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula05Exer01\TP.Aula05Exer01\obj\Debug\net6.0\TP.Aula05Exer01.AssemblyInfoInputs.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula05Exer01\TP.Aula05Exer01\obj\Debug\net6.0\TP.Aula05Exer01.AssemblyInfo.cs
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula05Exer01\TP.Aula05Exer01\obj\Debug\net6.0\TP.Aula05Exer01.csproj.CoreCompileInputs.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula05Exer01\TP.Aula05Exer01\obj\Debug\net6.0\TP.Aula05Exer01.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula05Exer01\TP.Aula05Exer01\obj\Debug\net6.0\refint\TP.Aula05Exer01.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula05Exer01\TP.Aula05Exer01\obj\Debug\net6.0\TP.Aula05Exer01.pdb
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula05Exer01\TP.Aula05Exer01\obj\Debug\net6.0\TP.Aula05Exer01.genruntimeconfig.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula05Exer01\TP.Aula05Exer01\obj\Debug\net6.0\ref\TP.Aula05Exer01.dll
